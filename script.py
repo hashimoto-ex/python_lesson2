@@ -1,7 +1,7 @@
 from unittest import case
 
 
-x,y = 1000,10000
+x,y = 0,3
 def calc(x,y,mode) :
     type = '-'
     if mode == '-':
